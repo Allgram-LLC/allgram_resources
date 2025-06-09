@@ -1,0 +1,11 @@
+---
+layout: ../../layouts/BlogPost.astro
+lang: "en"
+title: 'Article title'
+description: 'Article description'
+image: 'https://...'
+pubDate: 'May 29, 2023'
+date: '2023-05-29'
+---
+
+Article content (markdown)
