@@ -1,19 +1,27 @@
-Business Source License 1.1
+Creative Commons Attribution 4.0 International
 
-Copyright (C) 2025 Allgram LLC
+===================================================================
 
-Use of this software is governed by the Business Source License included in the LICENSE file.
+This license applies to all files in this repository EXCEPT those in the `logo/` and `favicon/` directories.
 
-As of the date above, the software is licensed under the Business Source License 1.1 (BUSL-1.1).
+You are free to:
 
-Permissions:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+- Use for any purpose, even commercially
 
-The use of the software is permitted only for non-production, non-commercial, and non-competing purposes, unless otherwise allowed by Allgram LLC under a separate written agreement.
+Under the following terms:
 
-Limitations:
+- Attribution — You must give appropriate credit (e.g., "© 2025 Nick Burakov / Atri Software"), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-The Licensed Work may not be used, modified, or distributed for production purposes, in any commercial product or service, or to build a competing product.
+For full license text, see: https://creativecommons.org/licenses/by/4.0/
 
-No Change Date is currently set. All rights reserved.
+---
 
-You may obtain a copy of the license at: https://mariadb.com/bsl11
+⚠️ **Exception: Logo and Favicon**
+
+The allgram logo and all files in `logo/` and `favicon/` directories are licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License.
+
+You may use them **only in unmodified form**, with proper attribution, and **not as part of another brand or product identity**.
+
+allgram™ is an unregistered trademark of Nick Burakov / Atri Software. All rights reserved.
