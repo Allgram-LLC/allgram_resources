@@ -6,6 +6,7 @@ This repository contains static assets used by the allgram project, including:
 - Desktop installers for various platforms
 - Favicon and logo files
 
+
 ---
 
 ## License
