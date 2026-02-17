@@ -8,7 +8,7 @@ pubDate: 'July 1, 2022'
 date: '2022-07-01'
 ---
 
-Among the many social media and messaging options out there now, the principal players all have their own agenda – which isn’t the same as yours. Most of us are used to seeing ads on Facebook for things we’ve just been talking about on the phone. Think about that for a moment.  It’s weird and kind of scary, isn’t it? 
+Among the many social media and messaging options out there now, the principal players all have their own agenda – which isn’t the same as yours. Most of us are used to seeing ads on Facebook for things we’ve just been talking about on the phone. Think about that for a moment.  It’s weird and kind of scary, isn’t it?
 
 **Join the allgram revolution and start to enjoy the new digital world**
 
