@@ -4,15 +4,15 @@ lang: "en"
 title: 'Decentralized social media is the only way forward'
 description: 'Your data isn’t safe on centralized platforms. From Instagram to Facebook, breaches prove the model is broken. Decentralized social media with allgram puts ownership back in your hands.'
 image: 'https://resources.allgram.best/blog_images/decentralized-social-media.jpg'
-pubDate: 'February 2, 2025'
-date: '2025-02-02'
+pubDate: 'February 2, 2026'
+date: '2026-02-02'
 ---
 
 Your data isn’t safe.
 
 We all know it, so why accept it?
 
-Take the latest Instagram [hack](https://cybersecuritynews.com/instagram-data-leak-exposes-sensitive-info-of-17-5m-accounts/). In late 2024, hackers scraped sensitive data from over 17 million accounts, including full names, usernames, emails, phone numbers and (partial) locations. They did it by exploiting public APIs and a flawed password reset system.
+Take the latest Instagram [hack](https://cybersecuritynews.com/instagram-data-leak-exposes-sensitive-info-of-17-5m-accounts/). In late 2025, hackers scraped sensitive data from over 17 million accounts, including full names, usernames, emails, phone numbers and (partial) locations. They did it by exploiting public APIs and a flawed password reset system.
 
 Instagram might [downplay](https://x.com/instagram/status/2010202301886238822) it, but the data’s already out there, ready for phishing, ID theft and account takeovers. We’re sitting ducks because one centralized giant couldn't secure the data.
 

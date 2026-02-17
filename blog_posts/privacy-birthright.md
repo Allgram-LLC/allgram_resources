@@ -1,12 +1,12 @@
 ---
-date: 2026-02-12
+date: '2026-02-12'
 description: Centralized social media turns users into products. allgram
   is redefining the model with fully decentralized infrastructure built
   for privacy, sovereignty and real freedom.
 lang: en
 layout: ../../layouts/BlogPost.astro
 image: 'https://resources.allgram.best/blog_images/privacy-birthright.jpg'
-pubDate: 2026-02-12
+pubDate: 'February 12, 2026'
 title: Privacy's a birthright, not a perk
 ---
 
