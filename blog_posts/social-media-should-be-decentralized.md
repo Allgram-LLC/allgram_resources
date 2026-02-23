@@ -10,7 +10,7 @@ date: '2026-02-23'
 
 **'lo'**
 
-In August 1964, the RAND Corporation published '[*On Distributed Communications*](https://www.rand.org/content/dam/rand/pubs/research_memoranda/2006/RM3420.pdf)'. Less than two years on from the [Cuban Missile Crisis](https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis), the paper proposed a decentralized and distributed communication system resilient enough to survive a nuclear strike.
+In August 1964, the RAND Corporation published '[*On Distributed Communications*](https://www.rand.org/content/dam/rand/pubs/research_memoranda/2006/RM3420.pdf)'. Less than two years on from the [Cuban Missile Crisis](https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis), the paper proposed a decentralized and distributed communication system resilient enough to survive a nuclear strike. 
 
 [Leonard Kleinrock](https://www.lk.cs.ucla.edu/index.html) and [Charley Kline](https://alumni.ucla.edu/ucla-history-45/) were UCLA academics who ran with the RAND proposal. Late night on October 29th 1969, they made first contact — a UCLA computer talking to another at the Stanford Research Institute.
 
