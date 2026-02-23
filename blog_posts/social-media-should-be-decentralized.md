@@ -4,8 +4,8 @@ lang: "en"
 title: 'Social media should be decentralized'
 description: 'From ARPANET to today: centralized social media hoards our data and fuels breaches. Decentralized social media with allgram puts ownership, privacy and control back in your hands.'
 image: 'https://resources.allgram.best/blog_images/social-media-decentralized.jpg'
-pubDate: 'February 20, 2026'
-date: '2026-02-20'
+pubDate: 'February 23, 2026'
+date: '2026-02-23'
 ---
 
 **'lo'**
