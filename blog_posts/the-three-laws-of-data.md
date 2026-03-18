@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 lang: "en"
 title: 'The Three Laws of Data'
 description: 'Asimov’s robotics laws solved a “drunk robot” paradox. In social media, we face a similar ethics problem with centralized data. Here are allgram’s Three Laws of Data: ownership, decentralization, and protection — with consent and deletion built in.'
-image: 'https://resources.allgram.best/blog_images/Blog-posts2-1024x576.jpg'
+image: 'https://resources.allgram.best/blog_images/the-three-laws-of-data.jpg'
 pubDate: 'March 10, 2026'
 date: '2026-03-10'
 ---
